@@ -23,7 +23,7 @@
 	</properties>
 
 	<dependencies>
-
+        <!-- junit --> 
 		<dependency>
 			<groupId>junit</groupId>
 			<artifactId>junit</artifactId>
